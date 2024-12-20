@@ -37,5 +37,6 @@ def update_chart(selected_city):
 
 # Run the app
 server = app.server  # Expose the server to Render
+
 if __name__ == '__main__':
     app.run_server(debug=True)
