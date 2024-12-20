@@ -6,7 +6,7 @@ import pandas as pd
 df = pd.DataFrame({
     "Fruits": ["Apples", "Oranges", "Bananas", "Grapes"],
     "Amount": [10, 15, 7, 20],
-    "City": ["New York", "Los Angeles", "Chicago", "Houston"]
+    "City": ["New York", "Los Angeles", "Chicago", "Neuchâtel"]
 })
 
 # Initialize the Dash app
